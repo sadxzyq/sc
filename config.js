@@ -31,28 +31,28 @@ global.sig = 'https://instagram.com/mydiam.is.fun'
 global.syt = 'https://Instagram.com/mydiam.is.fun'
 global.sgh = 'https://github.com/sadxzyq'
 global.sgc = 'https://chat.whatsapp.com/BXNCH3RoTREAuh8mKLMXQJ'
-global.swa = 'wa.me/6282285357346'
+global.swa = 'wa.me/6288291192353'
 global.swb = 'null'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '082285357346'
+global.pdana = '082285357346(author Darkx)'
 global.povo = '-'
 global.pgopay = '-'
-global.ppulsa = '082285357346'
+global.ppulsa = '088291192353'
 global.ppulsa2 = '082307335943'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283843114989'
-global.nomorown = '6282285357346'
-global.namebot = '𝙳𝚊𝚛𝚔𝚡𝙱𝙾𝚃'
-global.nameown = '𝘿𝙖𝙧𝙠𝙭'
+global.nomorbot = '6283896382781'
+global.nomorown = '6288291192353'
+global.namebot = '𝙂𝙪𝙣𝙜𝘽𝙤𝙩𝙯'
+global.nameown = '𝙂𝙪𝙣𝙜'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282285357346', '𝘿𝙖𝙧𝙠𝙭', true]
+  ['6288291192353', '𝙂𝙪𝙣𝙜', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -102,16 +102,16 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'By 𝙳𝚊𝚛𝚔𝚡𝙱𝙾𝚃' //Main Watermark
-global.wm2 = '𝘿𝙖𝙧𝙠𝙭'
-global.wm3 = '𝙳𝚊𝚛𝚔𝚡𝙱𝙾𝚃 | By 𝘿𝙖𝙧𝙠𝙭'
+global.wm = 'By 𝙂𝙪𝙣𝙜𝘽𝙤𝙩𝙯' //Main Watermark
+global.wm2 = '𝙂𝙪𝙣𝙜'
+global.wm3 = '𝙂𝙪𝙣𝙜𝘽𝙤𝙩𝙯 | By 𝙂𝙪𝙣𝙜'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `𝙳𝚊𝚛𝚔𝚡𝙱𝙾𝚃 | ʙʏ ${global.nameown}`
-global.author = '𝘿𝙖𝙧𝙠𝙭' 
-global.packname = '𝙳𝚊𝚛𝚔𝚡𝙱𝙾𝚃'
+global.author = '𝙂𝙪𝙣𝙜𝘽𝙤𝙩𝙯' 
+global.packname = '𝙂𝙪𝙣𝙜𝘽𝙤𝙩𝙯'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
-global.ultahowner = 'Mei 24 2023'
+global.ultahowner = '19 09 9999'
 
 
 /*============== LOGO ==============*/
@@ -125,13 +125,13 @@ global.thumbs = ['https://telegra.ph/file/7db49c83fd106a60741cd.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.thumbBanned = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
 global.thumbWarn = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
-global.botintro = 'Hallo, Kenalin saya 𝙳𝚊𝚛𝚔𝚡𝙱𝙾𝚃 Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh 𝘿𝙖𝙧𝙠𝙭 Saya di rilis pada tanggal\n🗓 ️_24/05/1999_'
+global.botintro = 'Hallo, Kenalin saya 𝙂𝙪𝙣𝙜𝘽𝙤𝙩𝙯 Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh 𝘿𝙖𝙧𝙠𝙭 Saya di rilis pada tanggal\n🗓 ️_24/05/1999_'
 global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = '𝘿𝙖𝙧𝙠𝙭'
-global.umurowner = '16'
-global.asalowner = 'SumSel, Lubuklinggau'
-global.nomorowner = 'wa.me/6282285357346'
+global.nameowner = '𝙂𝙪𝙣𝙜'
+global.umurowner = '-'
+global.asalowner = '-'
+global.nomorowner = 'wa.me/6288291192353'
 global.pacarowner = 'Stay Halal brother'
 
 /*============== TEXT ==============*/
@@ -148,8 +148,8 @@ global.drtf = 'text/rtf'
 global.thumbdoc = 'https://telegra.ph/file/cf9899e70163960c96ed2.jpg'
 
 /*=========== FAKE SIZE ===========*/
-global.fsizedoc = '0' // default 10TB
-global.fpagedoc = '9'
+global.fsizedoc = '999999999' // default 10TB
+global.fpagedoc = '1'
 
 /*=========== HIASAN ===========*/
 // DEFAULT MENU
@@ -380,7 +380,7 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/fd/21/41/fd21419275236bb153de3c8dcbbf3bf9.jpg',
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 /*============== STICKER WM ==============*/
-global.stickpack = 'By 𝙳𝚊𝚛𝚔𝚡𝙱𝙾𝚃'
+global.stickpack = 'By 𝙂𝙪𝙣𝙜𝘽𝙤𝙩𝙯'
 global.stickauth = `𝙳𝚊𝚛𝚔𝚡`
 
 global.multiplier = 38 // The higher, The harder levelup

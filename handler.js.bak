@@ -1028,7 +1028,7 @@ Untuk mematikan fitur ini, ketik
 *.off antidelete*
 
 Untuk menghapus pesan yang dikirim BOT, reply pesan dengan perintah
-*.delete*`, author, [['OFF FITURE', '.off antidelete'],['MENU', '.menu']], msg, adReply)
+*.delete*`, author, [['OFF FITURE', '.off antidelete'],['「𝕄𝔼ℕ𝕌」', '.menu']], msg, adReply)
         this.copyNForward(msg.chat, msg).catch(e => console.log(e, msg))
     } catch (e) {
         console.error(e)
@@ -1065,12 +1065,12 @@ RPG tidak aktif, Silahkan hubungi Team Bot Discussion Untuk mengaktifkan fitur i
         restrict: `${nmsr}\n
 Fitur ini di *disable* !`
     }[type]
-    if (msg) return conn.sendButton(m.chat, danied, msg, `${imgr + 'Accses Danied'}`, [['𝕄𝔼ℕ𝕌', '.menu'],['𝕆𝕎ℕ𝔼ℝ ', '.menu']],m)
+    if (msg) return conn.sendButton(m.chat, danied, msg, `${imgr + 'Accses Danied'}`, [['「𝕄𝔼ℕ𝕌」', '.menu'],['「𝕆𝕎ℕ𝔼ℝ」', '.menu']],m)
     
      let msgg = {
     	unreg: `${nmsr}\nSilahkan LOGIN ke database terlebih dahulu untuk menggunakan bot ini lebih lanjut *Click button di bawah*\n\n*Kalian bisa ikuti langkah LOGIN selanjutnya* ?`
 }[type]
-if (msgg) return conn.sendButton(m.chat, `${global.htki} LOGIN ${global.htka}`, msgg, `${imgr + 'Verify'}`, [['LOGIN', '/verify']],m)
+if (msgg) return conn.sendButton(m.chat, `${global.htki} 「𝙻𝙾𝙶-𝙸𝙽」  ${global.htka}`, msgg, `${imgr + 'Verify'}`, [['「𝙻𝙾𝙶-𝙸𝙽」', '/verify']],m)
 }    
 let file = global.__filename(import.meta.url, true)
 watchFile(file, async () => {

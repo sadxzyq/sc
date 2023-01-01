@@ -21,7 +21,7 @@ say('Darkx', {
   align: 'center',
   colors: ['red', 'magenta']
 })
-say(` NexBotz By @NexEp`, { 
+say(` Dark By @Darkx`, { 
   font: 'console',
   align: 'center',
   colors: ['red', 'magenta']
