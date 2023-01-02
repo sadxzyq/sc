@@ -39,7 +39,7 @@ global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 global.pdana = '083167665895(owner)'
 global.povo = '-'
 global.pgopay = '-'
-global.ppulsa = '0822853573r6'
+global.ppulsa = '082285357346'
 global.ppulsa2 = '082307335943'
 global.psaweria = '-'
 
@@ -52,7 +52,7 @@ global.nameown = '𝙋𝙧𝙤𝙜𝙧𝙖𝙢-𝘽𝙤𝙩𝙯ོ'
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['083167665895', '𝙋𝙧𝙤𝙜𝙧𝙖𝙢-𝘽𝙤𝙩𝙯ོ', true]
+  ['6283167665895', '𝙋𝙧𝙤𝙜𝙧𝙖𝙢-𝘽𝙤𝙩𝙯ོ', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
