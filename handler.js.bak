@@ -354,8 +354,8 @@ if (!isNumber(user.ayam)) user.ayam = 0
                     user.joinlimit = 0
             } else
                 global.db.data.users[m.sender] = {
-                    exp: 999999999,
-                    limit: 20,
+                    exp: 100,
+                    limit: 50,
                     lastclaim: 0,
                     registered: false,
                     spammer: 0,
@@ -377,7 +377,7 @@ if (!isNumber(user.ayam)) user.ayam = 0
                     banned: false,
                     warn: 0,
                     warning: 0,
-                    level: 90,
+                    level: 0,
                     role: 'Beginner',
                     autolevelup: false,
                     rumahsakit: 0,
@@ -394,7 +394,7 @@ if (!isNumber(user.ayam)) user.ayam = 0
                     BannedReason: '',
 
 
-                    money: 999999999999999,
+                    money: 999999999900000,
                     bank: 0,
                     atm: 0,
                     fullatm: 0,
