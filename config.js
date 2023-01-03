@@ -52,7 +52,7 @@ global.nameown = '𝘼𝙆 𝙀𝙉𝙏𝙀𝙍𝙏𝘼𝙄𝙉𝙈𝙀𝙉𝙏'
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6287723716349', 'Owner', true]
+  ['6287723716349', 'Lee', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
