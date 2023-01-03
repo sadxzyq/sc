@@ -20,17 +20,17 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
 let teksbio = `${htki} *BIODATA* ${htka}
-${htjava} *💌 Nama* : Satrio 
-${htjava} *✉️ Nama RL* : kamu nenye?
-${htjava} *♂️ Gender* : Boys
+${htjava} *💌 Nama* : Basuki
+${htjava} *✉️ Nama RL* : 
+${htjava} *♂️ Gender* : 
 ${htjava} *🕋 Agama* : Islam
-${htjava} *⏰ Tanggal lahir* : 25 Mei 2006
-${htjava} *🎨 Umur* : 16
-${htjava} *🧮 Kelas* : 10
-${htjava} *🧩 Hobby* : 「PUBG」 mabar uy hehe
+${htjava} *⏰ Tanggal lahir* : 22 Mei 2009
+${htjava} *🎨 Umur* : 13
+${htjava} *🧮 Kelas* : 7
+${htjava} *🧩 Hobby* : 「FREE FIRE」 
 ${htjava} *💬 Sifat* : ASIK DAH KALAU DAH KENAL
-${htjava} *🗺️ Tinggal* : SumSel, Lubuklinggau 
-${htjava} *❤️ Pacar* : Alim (alumni pondok)😁
+${htjava} *🗺️ Tinggal* : Lorong pendidikan 
+${htjava} *❤️ Pacar* : Mawar
 
 ${htjava} *📷 ɪɴsᴛᴀɢʀᴀᴍ* : ${sig}
 •·––––––––––––––––––––––––––·•
