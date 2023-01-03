@@ -7,7 +7,7 @@ if (command == 'play.1') {
 conn.reply(m.chat, `*_⏳Wait,Audio Sedang Di Proses..._⏳*`, m, {
 contextInfo: { externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, 
 title: 'AUDIO',
-body: 'YukiBot',         
+body: 'DarkxBot',         
 previewType: 0, thumbnail: await (await fetch(`https://i.ibb.co/jfZVKmC/babi2.jpg`)).buffer(),
 sourceUrl: `https://youtu.be/pwLZpdfO8AU`}}})
 let res = await fetch("https://api.dhamzxploit.my.id/api/ytplaymp3?text="+text)
@@ -17,7 +17,7 @@ if (command == 'play.2') {
 conn.reply(m.chat, `*_⏳ Wait,Video Sedang Di Proses...⏳_*`, m, {
 contextInfo: { externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, 
 title: 'VIDEO',
-body: 'ᴹᴿ᭄ King Of Bear ×፝֟͜×',         
+body: 'DARKX',         
 previewType: 0, thumbnail: await (await fetch('https://telegra.ph/file/6ab4daac226292a112540.jpg')).buffer(),
 sourceUrl: `https://youtu.be/pwLZpdfO8AU`}}})
 let res = await fetch("https://api.dhamzxploit.my.id/api/ytplaymp4?text="+text)

@@ -19,18 +19,17 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
-let teksbio = `${htki} *BIODATA* ${htka}
-${htjava} *💌 Nama* : Basuki
-${htjava} *✉️ Nama RL* : 
-${htjava} *♂️ Gender* : 
+${htjava} *💌 Nama* : Lee Hyunji 
+${htjava} *✉️ Nama RL* : Hyunji 
+${htjava} *♂️ Gender* : Cewek
 ${htjava} *🕋 Agama* : Islam
-${htjava} *⏰ Tanggal lahir* : 22 Mei 2009
-${htjava} *🎨 Umur* : 13
-${htjava} *🧮 Kelas* : 7
-${htjava} *🧩 Hobby* : 「FREE FIRE」 Gass mabar
+${htjava} *⏰ Tanggal lahir* : 04 Desember 2002
+${htjava} *🎨 Umur* : 20
+${htjava} *🧮 Kelas* : -
+${htjava} *🧩 Hobby* : 「NULIS WATTPAD」 
 ${htjava} *💬 Sifat* : ASIK DAH KALAU DAH KENAL
-${htjava} *🗺️ Tinggal* : Lorong pendidikan 
-${htjava} *❤️ Pacar* : Mawar
+${htjava} *🗺️ Tinggal* : Pakal barat lapangan, Pakal, Surabaya 
+${htjava} *❤️ Pacar* : -
 
 ${htjava} *📷 ɪɴsᴛᴀɢʀᴀᴍ* : ${sig}
 •·––––––––––––––––––––––––––·•
