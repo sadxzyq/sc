@@ -27,7 +27,7 @@ ${htjava} *🕋 Agama* : Islam
 ${htjava} *⏰ Tanggal lahir* : 22 Mei 2009
 ${htjava} *🎨 Umur* : 13
 ${htjava} *🧮 Kelas* : 7
-${htjava} *🧩 Hobby* : 「FREE FIRE」 
+${htjava} *🧩 Hobby* : 「FREE FIRE」 Gass mabar
 ${htjava} *💬 Sifat* : ASIK DAH KALAU DAH KENAL
 ${htjava} *🗺️ Tinggal* : Lorong pendidikan 
 ${htjava} *❤️ Pacar* : Mawar
